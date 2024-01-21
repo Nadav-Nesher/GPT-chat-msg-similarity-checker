@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# PyCharm project settings
+.idea/
+
+# Environment variables
+.env
+
+# JetBrains Qodana
+qodana.yaml
